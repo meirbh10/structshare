@@ -1,0 +1,47 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS C:\Users\meirb\AppData\Local\Programs\Python\Python311\BAFI\BAFI Python Scripts>  & 'C:\Users\meirb\AppData\Local\Programs\Python\Python311\python.exe' 'c:\Users\meirb\.vscode\extensions\ms-python.python-2023.20.0\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '55953' '--' 'C:\Users\meirb\AppData\Local\Programs\Python\Python311\BAFI\BAFI Python Scripts\StructShare_Main.py'
+Full Path For Excel Report File =  C:\Users\meirb\AppData\Local\Programs\Python\Python311\StructShare\Reports\Report_From_Date_And_Time_2023.11.16 12.06.27.xlsx
+
+\StructShare = 
+
+Script INITIAL ExcelRowNumber =  1
+[WDM] - Downloading: 17.8kB [00:00, 9.10MB/s]
+
+S T A R T   T E S T: StructShare
+Open the website:  http://the-internet.herokuapp.com
+PASS: The Error Message  A/B Test Variation 1
+Also known as split testing. This is a way in which businesses are able to simultaneously test and learn different versions of a 
+page to see which text and/or functionality works best towards a desired outcome (e.g. a user action such as a click-through).  APPEARS - As Expected!
+
+1st button clicked
+2nd button clicked
+3rd button clicked
+Remove 3 button clicked
+Remove 2 button clicked
+Remove 1 button clicked
+Image source: http://the-internet.herokuapp.com/img/forkme_right_green_007200.png, Response code: 200
+A {'200'} B
+A {'200'} B
+Image source: http://the-internet.herokuapp.com/asdf.jpg, Response code: 404
+A {'404'} B
+A {'404'} B
+Image source: http://the-internet.herokuapp.com/hjkl.jpg, Response code: 404
+A {'404'} B
+A {'404'} B
+Image source: http://the-internet.herokuapp.com/img/avatar-blank.jpg, Response code: 200
+A {'200'} B
+A {'200'} B
+PASS: The CHECK 4: Broken Images - PASSED
+1st checkbox is checked
+Checkbox 2 is unchecked
+PASS: The CHECK 6: Checkboxes - PASSED
+PASS: The CHECK 7: Context Menu - PASSED
+PASS: The CHECK 10: Disappearing Elements - PASSED
+PASS: The CHECK 18: File Uploader - PASSED
+E N D   T E S T: StructShare
+
+Script LAST ExcelRowNumber =  9
